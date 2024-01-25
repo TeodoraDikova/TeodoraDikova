@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeodoraDikova
-- 👀 I’m interested in Art, Traveling
-- 🌱 I’m currently learning programming with JavaScript
+- 👀 I’m interested in art, traveling, healty lifestyle and fitness 
+- 🌱 I’m currently learning programming with JavaScript in Softwere University of Sofia
 
 
 <!---
